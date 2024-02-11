@@ -33,7 +33,6 @@ If you're looking for a course that isn't listed here, still [reach out](mailto:
 Currently, I only offer online sessions.
 <br>
 <br>
-<
 While there are a variety of platforms, I have found that these work best.
 <ul>
 <li>
