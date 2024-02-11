@@ -2,9 +2,9 @@
 title = "Contact"
 +++
 
-Feel free to email me at payne.n(at)northeastern.edu, or reach out via any of the links below.
+Feel free to email me at nick(at)nicholaspayne.net, or reach out via any of the links below.
 
-*If you are emailing to schedule a tutoring session, please use [nipaynetutoring@gmail.com](mailto:nipaynetutoring@gmail.com).  Otherwise there may be a delay in a response.*
+*If you are looking for information about tutoring, please visit my <a href="https://nicholaspayne.net/tutoring/">Tutoring</a> page.*
 
 ---
 
