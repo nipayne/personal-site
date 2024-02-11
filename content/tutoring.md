@@ -6,7 +6,7 @@ Thinking about scheduling a tutoring session?  Take a look at the below informat
 
 ### About
  
-Thanks for checking out this page.  A little about me - I am currently an MS student at Northeastern University studying applied mathematics, having graduated with a BS in Mathematics in May 2022.  Since graduating from Salem High School in Salem NH in 2017, I have been involved with a variety of programs that have allowed me to be tutor and mentor for many high school and college students. This includes academic mentoring of middle and high school students in several Boston area programs, supporting college students as a tutor for the Northeastern Math Department, and being a private tutor for students in grades 7 through 12.  I have also been a teaching assistant for several undergraduate math courses, and a substitute teacher for Salem School District.  Having tutored throughout the pandemic, I am able to work with students to help them develop skills to deal wih a post-pandemic education, in addition to providing support in mathematics.
+Thanks for checking out this page.  A little about me - I am currently a PhD student at Penn State University, having graduated with a BS in Mathematics in May 2022 and a MS in Applied Math in May 2023, both from Northeastern University.  Since graduating from Salem High School in Salem NH in 2017, I have been involved with a variety of programs that have allowed me to be tutor and mentor for many high school and college students. This includes academic mentoring of middle and high school students in several Boston area programs, supporting college students as a tutor for the Northeastern Math Department, and being a private tutor for students in grades 7 through 12.  I have also been a teaching assistant for several undergraduate math courses, and a substitute teacher for Salem School District.  Having tutored throughout the pandemic, I am able to work with students to help them develop skills to deal wih a post-pandemic education, in addition to providing support in mathematics.
 
 If you'd like to read more, feel free to check out my [About](https://nicholaspayne.net/about/) page.
 
@@ -24,17 +24,16 @@ If you're looking for a course that isn't listed here, still [reach out](mailto:
 
 ### Session Info & Pricing
 
-**Rate:** $40/hour (regardless of whether the session is in-person or online)
+**Rate:** Please <a href="mailto:nipaynetutoring@gmail.com">reach out</a>!
 
 **Session Length:** 30, 60, or 90 minutes, whatever works best.
 <br>
 
 
-While I primarily offer sessions online, I do offer both.
+Currently, I only offer online sessions.
 <br>
 <br>
-<font size="+1">**Online:**</font>
-
+<
 While there are a variety of platforms, I have found that these work best.
 <ul>
 <li>
@@ -48,9 +47,6 @@ Please note, you do not need to make an account for either of these - personaliz
 <br>
 <br>
 
-<font size="+1">**In-person:**</font>
-
-For those that live in the Exeter NH or Salem NH areas, I also offer in-person sessions at either the [Exeter Public Library](https://www.google.com/maps/place/Exeter+Public+Library/@42.9819687,-70.9470699,17z/data=!3m2!4b1!5s0x89e2eefb1db9cf2f:0xa77ca66d0f3ac895!4m5!3m4!1s0x89e2eefb204a6b39:0xcdd37d9d08a238c5!8m2!3d42.9819648!4d-70.9448812), or the [Salem Barnes & Noble](https://www.google.com/maps/place/Barnes+%26+Noble/@42.770477,-71.222099,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3aa39434a14eb:0xe5ff82a7460f6ec1!8m2!3d42.7704731!4d-71.2199103).  *Due to limited availabilty, there may be a several week delay in booking.*
 
 **Payment:** I accept either Paypal or Venmo, and payment can be made at the conclusion of each session.
 
