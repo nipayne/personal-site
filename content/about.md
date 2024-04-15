@@ -3,9 +3,13 @@ title = "About"
 +++
 
 ## About Me
-{{< figure class="avatar" src="/profile_pic.JPEG" alt="avatar">}}
+{{< figure class="aboutimag"  src="/profile2.jpg" alt="avatar">}}
 
-Thanks for checking out this page.  A little about me -  I finished my BS in Mathematics in 2022 and my MS in Applied Math in 2023, both at Northeastern University.  Along the way, I completed two six month co-ops, one at Homesite Insurance as an Actuarial Analyst and the second at John Hancock Insurance in Distribution Analytics.  Now, I will be starting my PhD in mathematics at Penn State in the fall of 2023, with the hope of staying in academia after I finish.  My dream job is being a math professor at a small college in the middle of nowhere that emphasizes undergraduate research.  While I don't know if that is where I'll end up, I will do everything I can to head in that direction.
+Thanks for checking out this page.  A little about me -  I finished my BS in Mathematics in 2022 and my MS in Applied Math in 2023, both at Northeastern University.  Now, I am completing my first year as a PhD student in mathematics at Pennsylvania State University, where my primary research interests are in PDEs, specifically conservation laws.  
+
+After I finish my degree, my hope is to remain in academia - I would love to be a math professor at a small college in the middle of nowhere that emphasizes undergraduate research.  While I don't know if that is where I'll end up, I will do everything I can to head in that direction.
+
+
 
 
 ## Projects
@@ -25,7 +29,7 @@ In the summer/fall of 2022, I co-authored a <a href="https://arxiv.org/abs/2208.
 
 </ul>
 
-## Math Department Involvement
+## Northeastern University Math Department Involvement
 <ul>
 <li>
 I was the 2021-22 Northeastern <a href = "https://neu.campuslabs.com/engage/organization/math-club">Math Club </a> president, overseeing the transition of the club back to in-person gatherings and the push to increase accessibility for and attendance of underclassmen students.  With the help of my executive board, we hosted a variety of speakers and panels, and trips to events at Brown University and the Museum of Science.  Meetings averaged 20-30 attendees per talk, with some attracting upwards of 50, which was an increase of over 25% from years past.  With the help of the addition of two officers, we increased our social media involvement, engaging incoming freshmen and current students on Twitter and Instagram, and grew our Discord server to over 300 members.  We also greatly improved our collaboration efforts with other Math Department organizations, including the Diversity & Inclusion Committee, MathEMA, and the Association of Women in Mathematics.  <br><br>
