@@ -1,2 +1,1 @@
-# personal-site
-Personal Website
+My personal website, hosted on Cloudflare using Hugo.
