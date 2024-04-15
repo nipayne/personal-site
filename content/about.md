@@ -3,7 +3,7 @@ title = "About"
 +++
 
 ## About Me
-{{< figure class="aboutimag"  src="/profile2.jpg" alt="avatar" style="margin: -8px 0 0 16px; float: right; 
+{{< figure class="aboutimag"  src="/profile2.jpg" alt="avatar" style="margin:-8px 0px 0px 16px; float: right; 
             width:180px;border-radius:8px">}}
 
 Thanks for checking out this page.  A little about me -  I finished my BS in Mathematics in 2022 and my MS in Applied Math in 2023, both at Northeastern University.  Now, I am completing my first year as a PhD student in mathematics at Pennsylvania State University, where my primary research interests are in PDEs, specifically conservation laws.  
