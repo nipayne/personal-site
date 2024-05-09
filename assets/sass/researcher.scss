@@ -111,14 +111,14 @@ li::before{
 
 
     }
-    // .aboutimag > img {
-    //     border-radius: 8px;
-    //     float: right;
-    //     margin: -8px 0 0 16px;
-    //     height: $avatar-size*2.6;
-    //     width: $avatar-size*2;
-    //     overflow:hidden;
-    // }
+     .aboutimag > img {
+         border-radius: 8px;
+         float: right;
+         margin: -8px 0 0 16px;
+         height: $avatar-size*2.6;
+         width: $avatar-size*2;
+         overflow:hidden;
+     }
     .profile > img {
         border-radius: 50%;
         float: center;
