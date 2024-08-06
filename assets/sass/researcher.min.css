@@ -126,7 +126,7 @@ li::before {
     float: center;
     margin: -8px 0 0 8;
     height: 234px;
-    width: 300px;
+    /* width: 300px; */
     /* width: 270px */
 }
 
