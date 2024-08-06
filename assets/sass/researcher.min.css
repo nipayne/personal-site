@@ -117,7 +117,8 @@ li::before {
     border-radius: 8px;
     float: right;
     margin: -8px 0 0 16px;
-    width: 180px;
+    height: 234px;
+    width: 300px;
     overflow:hidden;
 }
 
