@@ -29,6 +29,13 @@ In the summer/fall of 2022, I co-authored a <a href="https://arxiv.org/abs/2208.
 
 </ul>
 
+## Penn State Involvement
+<ul>
+<li> I am currently the secretary for the Mathematics Graduate Student Association, the Math Department's graduate student representative for the Eberly College of Science Climate and Diversity Committee, and a member of the Advocacy and Diversity Committee and an at-large delegate for the Graduate and Professional Students Association.
+</li>
+</ul>
+
+
 ## Northeastern University Math Department Involvement
 <ul>
 <li>
