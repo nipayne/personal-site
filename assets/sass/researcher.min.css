@@ -125,7 +125,7 @@ li::before {
     border-radius: 50%;
     float: center;
     margin: -8px 0 0 8;
-    height: 270px;
+    /* height: 270px; */
     width: 270px
 }
 
