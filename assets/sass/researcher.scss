@@ -120,10 +120,10 @@ li::before{
          overflow:hidden;
      }
     .profile > img {
-        border-radius: 50%;
+        border-radius: 20%;
         float: center;
         margin: -8px 0 0 8;
-        // height: $avatar-size*3;
+        height: $avatar-size*3.2;
         // width: $avatar-size*3;
     }
 
