@@ -122,24 +122,21 @@ li::before {
     overflow:hidden;
 }
 
-#content .profile>img {
+/* #content .profile>img {
     /* border-radius: 50%;
     float: center;
     margin: -8px 0 0 8;
     height: 234px;
     /* width: 300px; */
     /* width: 270px  */
-    /* border-radius: 5px;
+  /*  border-radius: 5px;
     float: center;
     margin: -8px 0 0 8px;
     height: 234px;
-    overflow:hidden; */
-    border-radius: 20%;
-    float: center;
-    margin: -8px 0 0 8;
-    height: avatar-size*3.2;
+    overflow:hidden;
+
     
-}
+} */
 
 #content ol {
     counter-reset: list;
