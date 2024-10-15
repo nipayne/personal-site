@@ -5,7 +5,7 @@ title = "About"
 ## About Me
 {{< figure class="aboutimag"  src="/profile2.jpg" alt="aboutimag">}}
 
-Thanks for checking out this page.  A little about me -  I finished my BS in Mathematics in 2022 and my MS in Applied Math in 2023, both at Northeastern University.  Now, I am completing my first year as a PhD student in mathematics at Pennsylvania State University, where my primary research interests are in PDEs, specifically conservation laws.  
+Thank you for checking out this page.  A little about me -  I finished my BS in Mathematics in 2022 and my MS in Applied Math in 2023, both at Northeastern University.  Now, I am completing my first year as a PhD student in mathematics at Pennsylvania State University, where my primary research interests are in PDEs, specifically conservation laws.  
 
 After I finish my degree, my hope is to remain in academia - I would love to be a math professor at a small college in the middle of nowhere that emphasizes undergraduate research.  While I don't know if that is where I'll end up, I will do everything I can to head in that direction.
 
