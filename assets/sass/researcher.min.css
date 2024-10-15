@@ -36,8 +36,9 @@
 #content table th {
     border: 1px solid #ccc;
     padding: 6px 12px;
-    text-align: left
+    text-align: left;
 }
+
 
 * {
     color: #222;
@@ -185,6 +186,7 @@ li::before {
 #content table tr:nth-child(2n) {
     background-color: #f8f8f8
 }
+
 
 #content blockquote {
     border-left: 4px solid;

@@ -4,7 +4,7 @@ title = "Contact"
 
 Feel free to email me at nick(at)nicholaspayne.net, or reach out via any of the links below.
 
-*If you are looking for information about tutoring, please visit my <a href="https://nicholaspayne.net/tutoring/">Tutoring</a> page.*
+<!-- *If you are looking for information about tutoring, please visit my <a href="https://nicholaspayne.net/tutoring/">Tutoring</a> page.* -->
 
 ---
 

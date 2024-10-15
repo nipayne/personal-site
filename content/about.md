@@ -31,7 +31,11 @@ In the summer/fall of 2022, I co-authored a <a href="https://arxiv.org/abs/2208.
 
 ## Penn State Involvement
 <ul>
-<li> I am currently the secretary for the Mathematics Graduate Student Association, the Math Department's graduate student representative for the Eberly College of Science Climate and Diversity Committee, and a member of the Advocacy and Diversity Committee and an at-large delegate for the Graduate and Professional Students Association.
+<li> Secretary of the Mathematics Graduate Student Association
+</li>
+<li> Co-Chair of the Graduate Student Subcommittee and Math Graduate Student Representative, Eberly College of Science Climate and Diversity Committee
+</li> 
+<li> At-Large Delegate and member of the Advocacy and Diversity Committee, Graduate and Professional Students Association
 </li>
 </ul>
 
@@ -74,7 +78,7 @@ I was a mentor for <a href="https://sites.google.com/nhsau57.org/salemrobotics">
 I play the tenor saxophone, and have since junior high school.  In high school, I participated in marching band, jazz ensemble & concert band.  In college, I played in the Northeastern Pep Band (until 2022) & Concert Band (until 2019).
 </li>
 <li>
-I played chess competitively until I realized I didn't have patience for many-hour games (around the end of junior high).  I switched to teaching chess, and started an after-school chess program for elementary school students while I was in high school.  By the time I graduated, I had taught over 400 students, having run programs at five local schools and coordinated several other volunteers.  I still play recreationally, and am always willing to start a game.
+I played chess competitively until I realized I didn't have patience for many-hour games (around the end of junior high).  I switched to teaching chess, and started an after-school chess program for elementary school students while I was in high school.  By the time I graduated, I had taught over 400 students, having run programs at five local schools and coordinated several other volunteers.
 </li>
 <li>
 I have a dog <a href="https://photos.app.goo.gl/fZBftfccdg7yFLMK8">Quincy</a>, and a bunch of <a href="https://photos.app.goo.gl/idMGZAWE86AF3bXL7">chickens</a>.
