@@ -41,7 +41,7 @@ In the summer/fall of 2022, I co-authored a <a href="https://arxiv.org/abs/2208.
 
 
 ## Northeastern University Math Department Involvement
-I was very involved in the Northeastern University math community - so much so that the discussion warrants its own <a href = "posts/9-9-24.md">page</a>.
+I was very involved in the Northeastern University math community - so much so that the discussion warrants its own <a href = "/posts/9-9-24.md">page</a>.
 
 
 
