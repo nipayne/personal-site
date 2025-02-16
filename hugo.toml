@@ -30,8 +30,7 @@ googleAnalytics = ""  # add your tracking id
     title = "E-mail"
     url = "mailto:nick@nicholaspayne.net"
 
-[permalinks]
-  "/" = "/:filename"
+
 
 [menu]
 
