@@ -15,13 +15,13 @@ After I finish my degree, my hope is to remain in academia - I would love to be 
 ## Projects
 <ul>
 <li>
-In the spring of 2020, I completed a capstone course (<a href="https://wl11gp.neu.edu/udcprod8/bwckctlg.p_disp_course_detail?cat_term_in=201330&subj_code_in=MATH&crse_numb_in=4025">MATH 4025</a>) where I worked with two other students to explore traffic impacts by the proposed MBTA GLX Green Line extension into Medford, MA.  We developed a metric we called <i>traffic score</i>, which represented the traffic congestion in a given road intersection at a given time.  To do this, we used the MBTA Developer API to capture GPS locations of commuter buses every second over the span of three weeks.  Once we obtained the relevant data, a variety of statistical tests were run.  Our paper is available upon request.
+In the spring of 2020, I completed a capstone course (<a href="https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_display_courses?term_in=202510&one_subj=MATH&sel_subj=&sel_crse_strt=4025&sel_crse_end=4025&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=">MATH 4025</a>) where I worked with two other students to explore traffic impacts by the proposed MBTA GLX Green Line extension into Medford, MA.  We developed a metric we called <i>traffic score</i>, which represented the traffic congestion in a given road intersection at a given time.  To do this, we used the MBTA Developer API to capture GPS locations of commuter buses every second over the span of three weeks.  Once we obtained the relevant data, a variety of statistical tests were run.  Our paper is available upon request.
 </li>
 <li>
 In the summer of 2021, I participated in the Northeastern <a href="https://sites.google.com/view/rtg-northeastern/undergraduate/independent-research-experience?authuser=0">Summer Math Research Program</a>, learning about geometric configurations.  I co-wrote an expository <a href="https://arxiv.org/abs/2108.13565">paper</a> that examines relations to symmetry groups and some interesting patterns. It also highlights a script I wrote to help better visualize various historical generation algorithms.  
 </li>
 <li>
-In the spring of 2022, I completed yet another capstone course (<a href="https://wl11gp.neu.edu/udcprod8/bwckctlg.p_disp_course_detail?cat_term_in=202310&subj_code_in=MATH&crse_numb_in=4020">MATH 4020</a>) where I explored minimal surfaces, focusing on area minimization.  This was an independent project, advised by Professor Xuwen Zhu, and concluded with a final <a href="https://drive.google.com/file/d/1BPpttYQueK7-yuwLujigMNhiOTQj2f2G/view?usp=sharing">paper</a> and presentation open to students and faculty. 
+In the spring of 2022, I completed yet another capstone course (<a href="https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_display_courses?term_in=202510&one_subj=MATH&sel_subj=&sel_crse_strt=4020&sel_crse_end=4020&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=">MATH 4020</a>) where I explored minimal surfaces, focusing on area minimization.  This was an independent project, advised by Professor Xuwen Zhu, and concluded with a final <a href="https://drive.google.com/file/d/1BPpttYQueK7-yuwLujigMNhiOTQj2f2G/view?usp=sharing">paper</a> and presentation open to students and faculty. 
 </li>
 <li>
 In the summer/fall of 2022, I co-authored a <a href="https://arxiv.org/abs/2208.11837">paper</a> with Mrudul Thatte about the dimension of cycles on the unit circle.  I presented our results at JMM 2023 in Boston, MA, both during a contributed paper talk and a poster session.  The slides from the talk can be found <a href="https://drive.google.com/file/d/1KTa3WydgTJuc2SYmSS51TpKoXqhqD52l/view?usp=sharing">here</a>. 
@@ -40,8 +40,8 @@ In the summer/fall of 2022, I co-authored a <a href="https://arxiv.org/abs/2208.
 </ul>
 
 
-## Northeastern University Math Department Involvement
-I was very involved in the Northeastern University math community - so much so that the discussion warrants its own <a href = "https://nicholaspayne.net/posts/9-9-24/">page</a>.
+## Northeastern University Involvement
+I was very involved in the Northeastern University math community - so much so that the discussion warrants its own <a href = "https://nicholaspayne.net/posts/northeastern/">page</a>.
 
 
 
