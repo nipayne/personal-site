@@ -20,7 +20,7 @@ Chapter 6 | [Section 6.C1](/math41/lecture_notes/MATH41_6.C1_full.pdf) | [Sectio
 Chapter 7 | [Section 7.1](/math41/lecture_notes/MATH41_7.1_full.pdf) | [Section 7.2](/math41/lecture_notes/Math41_7.2_full.pdf)|| | 
 Chapter 8 | [Sections 8.1, 8.2, and 8.3](/math41/lecture_notes/Math41_8.1_8.2_8.3_full.pdf) | [Section 8.4](/math41/lecture_notes/Math41_8.4_full.pdf)| [Section 8.5](/math41/lecture_notes/Math41_8.5_full.pdf)| | 
 Chapter 9 | [Sections 9.1 and 9.2](/math41/lecture_notes/MATH41_9.1_9.2_full.pdf) | || | 
-Chapter 10 | [Sections 9.1 and 9.2](/math41/lecture_notes/MATH41_10.1_full.pdf) | || | 
+Chapter 10 | [Sections 10.1](/math41/lecture_notes/MATH41_10.1_full.pdf) | || | 
 
 ### Course Description
 Topics covered include functions and their representations; distinguishing between types of functions; evaluating the average rate of change; graphs and rate of change; end behavior of graphs; modeling with polynomial and rational functions and discussing extrema; finding and interpreting the meaning of inverse functions; solving exponential and logarithmic equations; modeling with exponential and logarithmic functions; angles and their measures; right triangle trigonometry; all six trigonometric functions and their representations; modeling with sine and cosine; applications of trigonometric functions; simple harmonic motion and other applications of trigonometric functions; inverse trigonometric functions; solving trigonometric equations; verifying identities; law of sines and law of cosines; and further topics, such as elementary limits, as time permits.
