@@ -16,7 +16,7 @@ Chapter 2 | [Section 2.1](/math41/lecture_notes/MATH41_2.1_full.pdf) | [Section 
 Chapter 3 | [Section 3.1](/math41/lecture_notes/MATH41_3.1_full.pdf) | [Section 3.2](/math41/lecture_notes/MATH41_3.2_full.pdf)| | | 
 Chapter 4 | [Section 4.1](/math41/lecture_notes/MATH41_4.1_full.pdf) | [Section 4.2](/math41/lecture_notes/MATH41_4.2_full.pdf)| [Section 4.3](/math41/lecture_notes/MATH41_4.3_Full.pdf)| | 
 Chapter 5 | [Section 5.1](/math41/lecture_notes/MATH41_5.1_full.pdf) | [Section 5.5](/math41/lecture_notes/MATH41_5.5_full.pdf)|| | 
-Chapter 6 | [Section 6.C1](/math41/lecture_notes/MATH41_6.C1_full.pdf) | [Section 6.C2](/math41/lecture_notes/MATH41_6.C2_full.pdf)|[Section 6.C3](/math41/lecture_notes/MATH41_6.C3_full.pdf)|[Section 6.C4](/math41/lecture_notes/MATH41_6.C4_full.pdf) | 
+Chapter 6 | [Section 6.C1](/math41/lecture_notes/MATH41_6.C1_full.pdf) | [Section 6.C2](/math41/lecture_notes/MATH41_6.C2_full.pdf)|[Section 6.C3](/math41/lecture_notes/MATH41_6C.3_full.pdf)|[Section 6.C4](/math41/lecture_notes/MATH41_6C.4_full.pdf) | 
 Chapter 7 | [Section 7.1](/math41/lecture_notes/MATH41_7.1_full.pdf) | [Section 7.2](/math41/lecture_notes/Math41_7.2_full.pdf)|| | 
 Chapter 8 | [Sections 8.1, 8.2, and 8.3](/math41/lecture_notes/Math41_8.1_8.2_8.3_full.pdf) | [Section 8.4](/math41/lecture_notes/Math41_8.4_full.pdf)| [Section 8.5](/math41/lecture_notes/Math41_8.5_full.pdf)| | 
 Chapter 9 | [Sections 9.1 and 9.2](/math41/lecture_notes/MATH41_9.1_9.2_full.pdf) | || | 
