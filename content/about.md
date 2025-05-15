@@ -29,13 +29,13 @@ In the summer/fall of 2022, I co-authored a <a href="https://arxiv.org/abs/2208.
 
 </ul>
 
-## Penn State Involvement
+## Penn State Current Involvement
 <ul>
-<li> Treasurer of the Mathematics Graduate Student Association
+<li> Speaker of the Assembly, <a href = "https://gpsa.psu.edu/">Graduate and Professional Student Association</a>
 </li>
-<li> Co-Chair of the Graduate Student Subcommittee and Math Graduate Student Representative, Eberly College of Science Climate and Diversity Committee
+<li> Co-Chair of the Graduate Student Subcommittee and Math Graduate Student Representative, <a href = "https://science.psu.edu/diversity-equity-inclusion-belonging/committees/climate-and-diversity">Eberly College of Science Climate and Diversity Committee</a>
 </li> 
-<li> At-Large Delegate and member of the Advocacy and Diversity Committee, Graduate and Professional Students Association
+<li> President, Mathematics Graduate Student Association
 </li>
 </ul>
 
