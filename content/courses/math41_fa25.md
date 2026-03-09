@@ -4,7 +4,7 @@ title = "Math 41"
 
 # Math 41: Trigonometry and Analytic Geometry
 
-[Here](/math41_fa25/math41_syllabus_fall25.pdf) is the instructor syllabus from when I taught this course in Fall 2025.  The textbook used for this course was "Precalculus: Functions and how they change”, by Crauder, Evans, and Noell (ISBN: 9781319305369).
+[Here](/math41_fa25/math41_syllabus_fall2025.pdf) is the instructor syllabus from when I taught this course in Fall 2025.  The textbook used for this course was "Precalculus: Functions and how they change”, by Crauder, Evans, and Noell (ISBN: 9781319305369).
 
 
 ### Lecture Notes
