@@ -2,7 +2,7 @@
 title = "Home"
 +++
 
-{{< figure class="profile" src="/profile3.jpg" alt="">}}
+{{< figure class="profile" src="/profile_photo.jpg" alt="">}}
 
 
 # <p style="text-align: center;"> Hi, I'm Nick.  I'm a ...</p>
