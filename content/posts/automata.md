@@ -154,7 +154,8 @@ If the cell survives both death checks, it attempts to physically expand.  With 
 Possibly consider a hybrid cellular automaton model, similar to [this](https://pmc.ncbi.nlm.nih.gov/articles/PMC2652069/).
 
 
-
+### Notes
+This was originally supposed to be a ShinyApp, but the animation stalled whenever I tried to run it.  So instead, the gifs are generated locally.
 
 
 ## References:
